@@ -1,7 +1,10 @@
 
-Opens multiple iTerm tabs in one window, and runs a line of code in each window. Useful, for example, in cases where multiple servers need to be started, and being able to watch the separate output from each server is vital.
+This script is written in AppleScript.  Run AppleScript on a Mac from the command line like so:
 
-AppleScript
+osascript scriptName.scpt
+
+This script opens multiple iTerm3 tabs in one window, and runs a line of code in each window. Useful, for example, in cases where multiple servers need to be started often, and being able to watch the separate output from each server is vital.
+
 
 2013, Michelle Leonhart
 
