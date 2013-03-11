@@ -1,0 +1,8 @@
+
+Opens multiple iTerm tabs in one window, and runs a line of code in each window. Useful, for example, in cases where multiple servers need to be started, and being able to watch the separate output from each server is vital.
+
+AppleScript
+
+2013, Michelle Leonhart
+
+
